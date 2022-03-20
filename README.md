@@ -1,2 +1,2 @@
-# Semana-3-FrontEnd
-Tercer semana de frontend
+# Misión3-FrontEnd
+Tercer misión del curso de FrontEnd de launch X
